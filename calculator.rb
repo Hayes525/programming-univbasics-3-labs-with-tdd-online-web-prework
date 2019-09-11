@@ -1,4 +1,3 @@
 # Add your variables here
 first_number = 2 
-second_number = 0 
-sum = frist_number + second_number
+second_number = 0
